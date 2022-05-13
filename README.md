@@ -7,4 +7,8 @@
 ◯と△は通れますが、✕は通れません。<br>
 ただし△を通ってよいのは2回までです。
 
+# 遊ぶ
+
+[こちら](https://feather16.github.io/LotteryMaze/)
+
 <img src="image/LotteryMaze_preview.png" width=400>
