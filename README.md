@@ -1,4 +1,4 @@
-# LotteryMaze
+# lottery-maze
 迷路が自動生成されます。運試しゲームです。
 
 # ルール
