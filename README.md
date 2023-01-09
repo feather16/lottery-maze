@@ -9,6 +9,6 @@
 
 # 遊ぶ
 
-[こちら](https://feather16.github.io/LotteryMaze/)
+[こちら](https://feather16.github.io/lottery-maze/)
 
 <img src="image/LotteryMaze_preview.png" width=400>
